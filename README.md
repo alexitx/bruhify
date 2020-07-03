@@ -1,1 +1,1 @@
-# bruhify
+[alexitx.github.io/bruhify](https://alexitx.github.io/bruhify)
